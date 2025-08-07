@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ducks</string>
+    <string name="load_random_duck">Pato Aleatório</string>
+    <string name="load_http_duck">Pato HTTP</string>
+    <string name="enter_image_number">Digite o número da imagem</string>
+    <string name="load_jpg">Carregar Imagem</string>
+    <string name="load_gif">Carregar GIF</string>
+    <string name="duck_logo">Logo do Pato</string>
+    <string name="splash_welcome">I believe in duck supremacy</string>
+
+</resources>
